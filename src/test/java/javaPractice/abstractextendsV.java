@@ -10,7 +10,7 @@ public class abstractextendsV extends abstractV {
 	@Override
 	public void test2() {
 		// TODO Auto-generated method stub
-		System.out.println("hfgfhgfgh");
+		System.out.println("New changes 33");
 	}
 
 }
